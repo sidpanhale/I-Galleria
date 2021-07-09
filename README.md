@@ -1,3 +1,3 @@
-# I-Galleria Using Tailwind CSS
+# I-Galleria using Tailwind CSS
 
 https://i-galleria.firebaseapp.com/
