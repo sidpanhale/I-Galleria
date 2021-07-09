@@ -1,3 +1,3 @@
 # I-Galleria
 
-https://i-galleria.web.app/
+https://i-galleria.firebaseapp.com/
